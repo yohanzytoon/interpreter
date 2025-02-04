@@ -20,7 +20,7 @@ This repository contains a mini interpreter for a Lisp-like language written in 
 
 ### Load in GHCi
 ```sh
-ghci MyLispLike.hs
+ghci partialInterpreter.hs
 ```
 
 ### Evaluate Expressions
